@@ -1,0 +1,8 @@
+*.pyc
+*.log
+*.json
+*~
+.vscode*
+build
+srm.egg-info
+dist
